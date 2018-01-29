@@ -5,6 +5,7 @@
 layout: home
 ---
 
+## About me
 
 <img src="/assets/FrancesCooper.jpg" alt="Me" style="width: 150px;"/>
 
