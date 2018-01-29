@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 <img src="/assets/FrancesCooper.jpg" alt="Me" style="width: 150px;"/>
 
