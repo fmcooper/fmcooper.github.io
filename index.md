@@ -3,9 +3,9 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: About Me
 ---
 
-## About me
 
 <img src="/assets/FrancesCooper.jpg" alt="Me" style="width: 150px;"/>
 
