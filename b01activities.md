@@ -10,7 +10,7 @@ permalink: /activities/
   <li>20-21 April 2017: MATCH-UP 2017 - Microsoft Research (<a href="/assets/MATCH-UP2017.pdf">poster presentation</a>)</li>
   <li>15 May 2017: Industrial Advisory Board Event, University of Glasgow (poster presentation)</li>
   <li>27-28 June 2017: The Scottish Informatics & Computer Science Alliance (SICSA) PhD Conference (<a href="/assets/SICSA2017.pdf">poster presentation</a>) * shortlisted</li>
-  <li>24-25 January 2018: African Women In Discrete Mathematics (AWIDM) (<a href="/assets/AWIDM2018_animated.pdf">animated talk</a>, <a href="AWIDM2018_not_animated.pdf">non-animated talk</a>)</li>
+  <li>24-25 January 2018: African Women In Discrete Mathematics (AWIDM) (<a href="/assets/AWIDM2018_animated.pdf">animated talk</a>, <a href="/assets/AWIDM2018_not_animated.pdf">non-animated talk</a>)</li>
 </ol>
 
 <div>
