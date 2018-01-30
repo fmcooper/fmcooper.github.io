@@ -3,9 +3,9 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: About Me
 ---
 
+### About Me
 
 <img src="/assets/FrancesCooper.jpg" alt="Me" style="width: 150px;"/>
 
@@ -16,7 +16,7 @@ Here is my university webpage: [www.gla.ac.uk/schools/computing/researchstudents
 
 
 
-## Education
+### Education
 
 I hold a degree in Mathematics from the Open University (First Class Hons) and a masters in Software Development from the University of Glasgow (Distinction; Class Prize; Grace Hopper Prize). 
 
