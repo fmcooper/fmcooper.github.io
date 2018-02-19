@@ -14,8 +14,8 @@ Some Chinese HSK vocabulary visualisations:
 </ol>
 
 <div>
-<a href="/assets/HSK1.pdf"><img style="height:30%;" src="/assets/HSK1_sml.png" alt="poster: HSK1 vocabulary"></a>
+<a href="/assets/HSK1.pdf"><img style="width:30%;" src="/assets/HSK1_sml.png" alt="poster: HSK1 vocabulary"></a>
 &emsp;&emsp;
-<a href="/assets/HSK2.pdf"><img style="height:30%;" src="/assets/HSK2_sml.png" alt="poster: HSK2 vocabulary"></a>
+<a href="/assets/HSK2.pdf"><img style="width:30%;" src="/assets/HSK2_sml.png" alt="poster: HSK2 vocabulary"></a>
 </div>
 
