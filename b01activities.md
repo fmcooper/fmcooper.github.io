@@ -24,6 +24,7 @@ permalink: /activities/
 ### Committees
 
 <ol>
+<li>2015/16: <a href="http://www.optimalmatching.com/MATCHUP2015/index.html">MATCH-UP 2015</a> organising committee member</li>
 <li>2015/16: Research student representative on the School of Computer Science <a href="http://www.gla.ac.uk/services/humanresources/equalitydiversity/athenaswan/">Athena Swan</a> SAT Committee</li>
 <li>2017/18: Postgraduate research student representitive on the <a href="http://www.bctcs.ac.uk/">British Colloquium of Theoretical Computer Science (BCTCS)</a> organising committee</li>
 <li>2017/18: Research student representitive for the <a href="https://www.gla.ac.uk/schools/computing/">School of Computer Science</a> (sitting on the Research Student Committee)</li>
