@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-<img src="/assets/FrancesCooper.jpg" alt="Me" style="width: 150px;"/>
+<img src="/assets/FrancesCooper.png" alt="Me" style="width: 150px;"/>
 
 I am a computer science PhD student at the [University of Glasgow](http://www.gla.ac.uk/) (started October 2015). My supervisor is [Dr David Manlove](http://dcs.gla.ac.uk/~davidm/) and I am a member of the Formal Analysis, Theory and Algorithms group [FATA](http://www.gla.ac.uk/schools/computing/research/researchoverview/formalanalysistheoryandalgorithms/). My research is in the area of [Algorithms and Complexity](http://www.optimalmatching.com/). My CV is available [here](/assets/FrancesCooperCV.pdf). 
 
