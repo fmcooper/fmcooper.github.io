@@ -8,7 +8,7 @@ permalink: /activities/
 
 <ol>
 <li>June 2018: SEA Conference talk - L'Aquila, Italy</li>
-<li>March 2018: BCTCS Conference talk - Royal Holloway, England</li>
+<li>March 2018: BCTCS Conference talk - Royal Holloway, England (<a href="/assets/2018_03_BCTCS_animated.pdf">animated talk</a>, <a href="/assets/2018_03_BCTCS_not_animated.pdf">non-animated talk</a>)</li>
 <li>January 2018: Invited Speaker, African Women In Discrete Mathematics Conference talk - Cape Town, South Africa (<a href="/assets/AWIDM2018_animated.pdf">animated talk</a>, <a href="/assets/AWIDM2018_not_animated.pdf">non-animated talk</a>)</li>
 <li>June 2017: SICSA Conference poster presentation - Dundee, Scotland (<a href="/assets/SICSA2017.pdf">poster presentation</a>) * shortlisted</li>
 <li>May 2017: Industrial Advisory Board Event poster presentation - University of Glasgow, Scotland (poster presentation)</li>
@@ -22,7 +22,7 @@ permalink: /activities/
 &emsp;&emsp;
 <a href="/assets/SICSA2017.pdf"><img style="width:25%;" src="/assets/SICSA2017.png" alt="poster: Hard Variants of the Student-Project Allocation Problem"></a>
 &emsp;&emsp;
-<a href="/assets/AWIDM2018_animated.pdf"><img style="width:30%;" src="/assets/AWIDM2018_pic.png" alt="talk: AWIDM Student-Project Allocation Problem talk"></a>
+<a href="/assets/2018_03_BCTCS_not_animated.pdf"><img style="width:30%;" src="/assets/2018_03_BCTCS_pic.png" alt="talk: BCTCS 2018 Student-Project Allocation Problem talk"></a>
 </div>
 
 ### Committees
@@ -52,7 +52,7 @@ permalink: /activities/
 
 <ol>
   <li>June 2018: SEA Conference talk - L'Aquila, Italy</li>
-<li>March 2018: BCTCS Conference talk - Royal Holloway, England</li>
+<li>March 2018: BCTCS Conference talk - Royal Holloway, England (<a href="/assets/2018_03_BCTCS_animated.pdf">animated talk</a>, <a href="/assets/2018_03_BCTCS_not_animated.pdf">non-animated talk</a>)</li>
 <li>January 2018: Invited Speaker, African Women In Discrete Mathematics Conference talk - Cape Town, South Africa (<a href="/assets/AWIDM2018_animated.pdf">animated talk</a>, <a href="/assets/AWIDM2018_not_animated.pdf">non-animated talk</a>)</li>
   <li>June 2017: SICSA Conference poster presentation - Dundee, Scotland (<a href="/assets/SICSA2017.pdf">poster presentation</a>) * shortlisted</li>
   <li>May 2017: Scottish Theorem Proving Seminar</li>
