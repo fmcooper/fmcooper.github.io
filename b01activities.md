@@ -6,16 +6,14 @@ permalink: /activities/
 
 ### Presentations
 
-<ol>
-<li>June 2018: SEA Conference talk - L'Aquila, Italy</li>
+<ul>
+<li>June 2018: SEA Conference talk - L'Aquila, Italy (<a href="/assets/2018_06_25_SEA_animated.pdf">animated talk</a>, <a href="/assets/2018_06_25_SEA_not_animated.pdf">non-animated talk</a>)</li>
 <li>March 2018: BCTCS Conference talk - Royal Holloway, England (<a href="/assets/2018_03_BCTCS_animated.pdf">animated talk</a>, <a href="/assets/2018_03_BCTCS_not_animated.pdf">non-animated talk</a>)</li>
 <li>January 2018: Invited Speaker, African Women In Discrete Mathematics Conference talk - Cape Town, South Africa (<a href="/assets/AWIDM2018_animated.pdf">animated talk</a>, <a href="/assets/AWIDM2018_not_animated.pdf">non-animated talk</a>)</li>
 <li>June 2017: SICSA Conference poster presentation - Dundee, Scotland (<a href="/assets/SICSA2017.pdf">poster presentation</a>) * shortlisted</li>
 <li>May 2017: Industrial Advisory Board Event poster presentation - University of Glasgow, Scotland (poster presentation)</li>
 <li>April 2017: MATCH-UP 2017 poster presentation - Microsoft Research Centre, Boston, USA (<a href="/assets/MATCH-UP2017.pdf">poster presentation</a>)</li>
-</ol>
-
-
+</ul>
 
 <div>
 <a href="/assets/MATCH-UP2017.pdf"><img style="width:30%;" src="/assets/MATCH-UP2017.png" alt="poster: Integer Programming for Student Project Allocation"></a>
@@ -24,6 +22,13 @@ permalink: /activities/
 &emsp;&emsp;
 <a href="/assets/2018_03_BCTCS_not_animated.pdf"><img style="width:30%;" src="/assets/2018_03_BCTCS_pic.png" alt="talk: BCTCS 2018 Student-Project Allocation Problem talk"></a>
 </div>
+
+
+### Publications
+<ul>
+<li><a href="http://drops.dagstuhl.de/opus/volltexte/2018/8943">A 3/2-Approximation Algorithm for the Student-Project Allocation Problem,</a> with David Manlove. Leibniz International Proceedings in Informatics (LIPIcs) 103:8:1-8:13, 2018. The <a href="http://arxiv.org/abs/1804.02731">full version</a> is available as Technical Report number 1804.02731, Computing Research Repository, Cornell University Library, 2018.</li>
+</ul>
+
 
 ### Committees
 
@@ -51,7 +56,7 @@ permalink: /activities/
 ### Conferences attended
 
 <ol>
-  <li>June 2018: SEA Conference talk - L'Aquila, Italy</li>
+<li>June 2018: SEA Conference talk - L'Aquila, Italy (<a href="/assets/2018_06_25_SEA_animated.pdf">animated talk</a>, <a href="/assets/2018_06_25_SEA_not_animated.pdf">non-animated talk</a>)</li>
 <li>March 2018: BCTCS Conference talk - Royal Holloway, England (<a href="/assets/2018_03_BCTCS_animated.pdf">animated talk</a>, <a href="/assets/2018_03_BCTCS_not_animated.pdf">non-animated talk</a>)</li>
 <li>January 2018: Invited Speaker, African Women In Discrete Mathematics Conference talk - Cape Town, South Africa (<a href="/assets/AWIDM2018_animated.pdf">animated talk</a>, <a href="/assets/AWIDM2018_not_animated.pdf">non-animated talk</a>)</li>
   <li>June 2017: SICSA Conference poster presentation - Dundee, Scotland (<a href="/assets/SICSA2017.pdf">poster presentation</a>) * shortlisted</li>
