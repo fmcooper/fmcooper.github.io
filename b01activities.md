@@ -30,6 +30,20 @@ permalink: /activities/
 </ul>
 
 
+### <a href="https://www.amazondc.com/">Amazon</a> Internship
+<ul>
+<li>Undertook a 3 month internship at <a href="https://www.amazondc.com/">Amazon Development Centre</a>, Edinburgh in Spring 2018.</li>
+<li>I developed new methods to allow advertisers on Amazon to understand who their customers are. This work encompassed graph theory, algorithms and machine learning.</li>
+</ul>
+
+
+### Instructor for <a href="https://www.codefirstgirls.org.uk/">CodeFirst:Girls</a>
+<ul>
+<li> <a href="https://www.codefirstgirls.org.uk/">CodeFirst:Girls</a> is a social enterprise to increase the number of women in tech.</li>
+<li> In late 2018 I will become a <a href="https://www.codefirstgirls.org.uk/">CodeFirst:Girls</a> instructor, for a course based in Glasgow.</li>
+</ul>
+
+
 ### Committees
 
 <ol>
