@@ -37,16 +37,32 @@ permalink: /activities/
 </ul>
 
 
-### Instructor for <a href="https://www.codefirstgirls.org.uk/">CodeFirst:Girls</a>
+### Lead Instructor for <a href="https://www.codefirstgirls.org.uk/">CodeFirst:Girls</a>
 <ul>
 <li> <a href="https://www.codefirstgirls.org.uk/">CodeFirst:Girls</a> is a social enterprise to increase the number of women in tech.</li>
-<li> In late 2018 I will become a <a href="https://www.codefirstgirls.org.uk/">CodeFirst:Girls</a> instructor, for a course based in Glasgow.</li>
+<li> In late 2018 I will become a <a href="https://www.codefirstgirls.org.uk/">CodeFirst:Girls</a> lead instructor, for a course based in Glasgow. I will be teaching HTML, CSS, UX, Git & version control, Bootstrap, Javascript and jQuery.</li>
 </ul>
+
+
+### Teaching & Outreach
+<ol>
+  <li>2018/19: Hacky Hour - An enterprise to share computing skills with researchers in other departments</li>
+  <li>2018/19: Lead CodeFirst:Girls instructor - see "CodeFirst:Girls" section above</li>
+  <li>2018/19: Teaching cryptography to schoolchildren (as part of the Quantum Cryptography School)</li>
+  <li>2015/16: Tutor on the Internet Technology/Software Development MSc Programming course</li>
+</ol>
+
+
+<div>
+<a href="/assets/QTS.jpg"><img style="width:30%;" src="/assets/QTS.jpg" alt="photo: Quantum Technology School 2018"></a>
+</div>
+
 
 
 ### Committees
 
 <ol>
+<li>2018/19: <a href="https://www.gla.ac.uk/colleges/scienceengineering/graduateschool/">College of Science and Engineering</a> Strategic Advisory Board</li>
 <li>2017/18: Research student representitive for the <a href="https://www.gla.ac.uk/schools/computing/">School of Computer Science</a> (Research Student Committee)</li>
 <li>2017/18: <a href="http://www.bctcs.ac.uk/">British Colloquium of Theoretical Computer Science (BCTCS)</a> organising committee</li>
 <li>2017/18: <a href="https://www.gla.ac.uk/colleges/scienceengineering/graduateschool/">College of Science and Engineering</a> Graduate School Board</li>
@@ -89,11 +105,6 @@ permalink: /activities/
 </ol>
 
 
-### Teaching
-
-<ol>
-  <li>2015/16: Tutor on the Internet Technology/Software Development MSc Programming course</li>
-</ol>
 
 
 
