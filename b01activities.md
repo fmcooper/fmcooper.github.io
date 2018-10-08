@@ -29,6 +29,11 @@ permalink: /activities/
 <li><a href="http://drops.dagstuhl.de/opus/volltexte/2018/8943">A 3/2-Approximation Algorithm for the Student-Project Allocation Problem,</a> with David Manlove. In Proceedings of SEA 2018: the 17th International Symposium on Experimental Algorithms, volume 103 of Leibniz International Proceedings in Informatics (LIPIcs), article 8 pages 1-13, 2018. The <a href="http://arxiv.org/abs/1804.02731">full version</a> is available as Technical Report number 1804.02731, Computing Research Repository, Cornell University Library, 2018.</li>
 </ul>
 
+### Founder of <a href="https://www.facebook.com/groups/GlasgowWomenInComputingScience/">Glasgow Women in Computing Science (GWiCS)</a>
+<ul>
+<li> We hold monthly meet ups, talks and information sessions as well as providing a supportive network for new PhD students and early career researchers. Open to all University of Glasgow students and staff (female / non-binary / male). </li>
+</ul>
+
 
 ### <a href="https://www.amazondc.com/">Amazon</a> Internship
 <ul>
@@ -37,17 +42,22 @@ permalink: /activities/
 </ul>
 
 
-### Lead Instructor for <a href="https://www.codefirstgirls.org.uk/">CodeFirst:Girls</a>
+### Lead Instructor for <a href="https://www.codefirstgirls.org.uk/">Code First: Girls</a>
 <ul>
-<li> <a href="https://www.codefirstgirls.org.uk/">CodeFirst:Girls</a> is a social enterprise to increase the number of women in tech.</li>
-<li> In late 2018 I will become a <a href="https://www.codefirstgirls.org.uk/">CodeFirst:Girls</a> lead instructor, for a course based in Glasgow. I will be teaching HTML, CSS, UX, Git & version control, Bootstrap, Javascript and jQuery.</li>
+<li> <a href="https://www.codefirstgirls.org.uk/">Code First: Girls</a> is a social enterprise to increase the number of women in tech.</li>
+<li> I am a lead instructor for <a href="https://www.codefirstgirls.org.uk/">Code First: Girls</a>. I teach HTML, CSS, UX, Git & version control, Bootstrap, Javascript and jQuery.</li>
 </ul>
+
+<div>
+<a href="/assets/CFG.jpg"><img style="width:30%;" src="/assets/CFG.jpg" alt="photo: Code First: Girls Glasgow 2018"></a>
+</div>
 
 
 ### Teaching & Outreach
 <ol>
-  <li>2018/19: Hacky Hour - An enterprise to share computing skills with researchers in other departments</li>
-  <li>2018/19: Lead CodeFirst:Girls instructor - see "CodeFirst:Girls" section above</li>
+  <li>2018/19: Founder of GWiCS - see "GWiCS" section above</li>
+  <li>2018/19: Hacky Hour and Compumatch - Enterprises to share computing skills and collaborate with researchers in other departments</li>
+  <li>2018/19: Lead Code First: Girls instructor - see "Code First: Girls" section above</li>
   <li>2018/19: Teaching cryptography to schoolchildren (as part of the Quantum Cryptography School)</li>
   <li>2015/16: Tutor on the Internet Technology/Software Development MSc Programming course</li>
 </ol>
@@ -86,6 +96,7 @@ permalink: /activities/
 ### Conferences attended
 
 <ol>
+<li>September 2018: AlgoUK workshop - University of Liverpool</li> 
 <li>June 2018: SEA Conference talk - L'Aquila, Italy (<a href="/assets/2018_06_25_SEA_animated.pdf">animated talk</a>, <a href="/assets/2018_06_25_SEA_not_animated.pdf">non-animated talk</a>)</li>
 <li>March 2018: BCTCS Conference talk - Royal Holloway, England (<a href="/assets/2018_03_BCTCS_animated.pdf">animated talk</a>, <a href="/assets/2018_03_BCTCS_not_animated.pdf">non-animated talk</a>)</li>
 <li>January 2018: Invited Speaker, African Women In Discrete Mathematics Conference talk - Cape Town, South Africa (<a href="/assets/AWIDM2018_animated.pdf">animated talk</a>, <a href="/assets/AWIDM2018_not_animated.pdf">non-animated talk</a>)</li>
