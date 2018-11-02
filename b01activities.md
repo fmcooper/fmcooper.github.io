@@ -35,13 +35,6 @@ permalink: /activities/
 </ul>
 
 
-### <a href="https://www.amazondc.com/">Amazon</a> Internship
-<ul>
-<li>Undertook a 3 month internship at <a href="https://www.amazondc.com/">Amazon Development Centre</a>, Edinburgh in Spring 2018.</li>
-<li>I developed new methods to allow advertisers on Amazon to understand who their customers are. This work encompassed graph theory, algorithms and machine learning.</li>
-</ul>
-
-
 ### Lead Instructor for <a href="https://www.codefirstgirls.org.uk/">Code First: Girls</a>
 <ul>
 <li> <a href="https://www.codefirstgirls.org.uk/">Code First: Girls</a> is a social enterprise to increase the number of women in tech.</li>
@@ -50,12 +43,27 @@ permalink: /activities/
 
 <div>
 <a href="/assets/CFG.jpg"><img style="width:30%;" src="/assets/CFG.jpg" alt="photo: Code First: Girls Glasgow 2018"></a>
+&emsp;&emsp;
+<a href="/assets/CFG2.jpg"><img style="width:30%;" src="/assets/CFG.jpg" alt="photo: Code First: Girls Glasgow 2018"></a>
 </div>
+
+### Creator of <a href="https://www.program-able.org">www.program-able.org</a>
+<ul>
+<li>A CS tutorial website aimed at improving code efficiency. Articles include: Command line tools, Git, Regex, Sed, Grep.</li>
+</ul>
+
+
+### <a href="https://www.amazondc.com/">Amazon</a> Internship
+<ul>
+<li>Undertook a 3 month internship at <a href="https://www.amazondc.com/">Amazon Development Centre</a>, Edinburgh in Spring 2018.</li>
+<li>I developed new methods to allow advertisers on Amazon to understand who their customers are. This work encompassed graph theory, algorithms and machine learning.</li>
+</ul>
 
 
 ### Teaching & Outreach
 <ol>
   <li>2018/19: Founder of GWiCS - see "GWiCS" section above</li>
+  <li>2018/19: Creator of www.program-able.org - see "www.program-able.org" section above</li>
   <li>2018/19: Hacky Hour and Compumatch - Enterprises to share computing skills and collaborate with researchers in other departments</li>
   <li>2018/19: Lead Code First: Girls instructor - see "Code First: Girls" section above</li>
   <li>2018/19: Teaching cryptography to schoolchildren (as part of the Quantum Cryptography School)</li>
