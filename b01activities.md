@@ -22,17 +22,20 @@ permalink: /activities/
 &emsp;&emsp;
 <a href="/assets/2018_03_BCTCS_not_animated.pdf"><img style="width:30%;" src="/assets/2018_03_BCTCS_pic.png" alt="talk: BCTCS 2018 Student-Project Allocation Problem talk"></a>
 </div>
+<br>
 
 
 ### Publications
 <ul>
 <li><a href="http://drops.dagstuhl.de/opus/volltexte/2018/8943">A 3/2-Approximation Algorithm for the Student-Project Allocation Problem,</a> with David Manlove. In Proceedings of SEA 2018: the 17th International Symposium on Experimental Algorithms, volume 103 of Leibniz International Proceedings in Informatics (LIPIcs), article 8 pages 1-13, 2018. The <a href="http://arxiv.org/abs/1804.02731">full version</a> is available as Technical Report number 1804.02731, Computing Research Repository, Cornell University Library, 2018.</li>
 </ul>
+<br>
 
 ### Founder of <a href="https://www.facebook.com/groups/GlasgowWomenInComputingScience/">Glasgow Women in Computing Science (GWiCS)</a>
 <ul>
 <li> We hold monthly meet ups, talks and information sessions as well as providing a supportive network for new PhD students and early career researchers. Open to all University of Glasgow students and staff (female / non-binary / male). </li>
 </ul>
+<br>
 
 
 ### Lead Instructor for <a href="https://www.codefirstgirls.org.uk/">Code First: Girls</a>
@@ -44,13 +47,15 @@ permalink: /activities/
 <div>
 <a href="/assets/CFG.jpg"><img style="width:30%;" src="/assets/CFG.jpg" alt="photo: Code First: Girls Glasgow 2018"></a>
 &emsp;&emsp;
-<a href="/assets/CFG2.jpg"><img style="width:30%;" src="/assets/CFG.jpg" alt="photo: Code First: Girls Glasgow 2018"></a>
+<a href="/assets/CFG2.jpg"><img style="width:30%;" src="/assets/CFG2.jpg" alt="photo: Code First: Girls Glasgow 2018"></a>
 </div>
+<br>
 
 ### Creator of <a href="https://www.program-able.org">www.program-able.org</a>
 <ul>
 <li>A CS tutorial website aimed at improving code efficiency. Articles include: Command line tools, Git, Regex, Sed, Grep.</li>
 </ul>
+<br>
 
 
 ### <a href="https://www.amazondc.com/">Amazon</a> Internship
@@ -58,6 +63,7 @@ permalink: /activities/
 <li>Undertook a 3 month internship at <a href="https://www.amazondc.com/">Amazon Development Centre</a>, Edinburgh in Spring 2018.</li>
 <li>I developed new methods to allow advertisers on Amazon to understand who their customers are. This work encompassed graph theory, algorithms and machine learning.</li>
 </ul>
+<br>
 
 
 ### Teaching & Outreach
@@ -74,6 +80,7 @@ permalink: /activities/
 <div>
 <a href="/assets/QTS.jpg"><img style="width:30%;" src="/assets/QTS.jpg" alt="photo: Quantum Technology School 2018"></a>
 </div>
+<br>
 
 
 
@@ -87,6 +94,7 @@ permalink: /activities/
 <li>2015/16: School of Computer Science <a href="http://www.gla.ac.uk/services/humanresources/equalitydiversity/athenaswan/">Athena Swan</a> Committee</li>
 <li>2015/16: <a href="http://www.optimalmatching.com/MATCHUP2015/index.html">MATCH-UP and COST Action IC1205 2015</a> organising committee</li>
 </ol>
+<br>
 
 
 
@@ -98,6 +106,7 @@ permalink: /activities/
 	&emsp;&emsp;
 	<iframe width="317" height="179" src="https://www.youtube.com/embed/Fci4PV0H8wc?rel=0" frameborder="0" allowfullscreen></iframe>
 </figure>
+<br>
 
 
 
