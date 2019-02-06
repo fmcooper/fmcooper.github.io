@@ -27,7 +27,18 @@ permalink: /activities/
 
 ### Publications
 <ul>
-<li><a href="http://drops.dagstuhl.de/opus/volltexte/2018/8943">A 3/2-Approximation Algorithm for the Student-Project Allocation Problem,</a> with David Manlove. In Proceedings of SEA 2018: the 17th International Symposium on Experimental Algorithms, volume 103 of Leibniz International Proceedings in Informatics (LIPIcs), article 8 pages 1-13, 2018. The <a href="http://arxiv.org/abs/1804.02731">full version</a> is available as Technical Report number 1804.02731, Computing Research Repository, Cornell University Library, 2018.</li>
+<li>Frances Cooper. Popular Matchings in the House Allocation Problem. Masters thesis. University of Glasgow, School of Computing Science, 2015.</li>
+<li>Frances Cooper and David Manlove. <a href="http://drops.dagstuhl.de/opus/volltexte/2018/8943">A 3/2-Approximation Algorithm for the Student-Project Allocation Problem,</a>. In Proceedings of SEA 2018: the 17th International Symposium on Experimental Algorithms, volume 103 of Leibniz International Proceedings in Informatics (LIPIcs), article 8 pages 1-13, 2018. The <a href="http://arxiv.org/abs/1804.02731">full version</a> is available as Technical Report number 1804.02731, Computing Research Repository, Cornell University Library, 2018.</li>
+</ul>
+<br>
+
+### Software and data
+<ul>
+<li>Frances Cooper. Uni-Match software to perform student-project allocations. Access via a web-app is available to universities free on request. Currently used in several universities in the UK, Ireland, China and Singapore. University of Glasgow, School of Computing Science, 2016. Updated 2019.</li>
+<li>Frances Cooper and David Manlove (2018). Data: A 3/2-approximation algorithm for the Student-Project Allocation problem [Data set]. Zenodo. Available from <a href="https://doi.org/10.5281/zenodo.1186824">http://doi.org/10.5281/zenodo.1186824</a>.</li>
+<li>Frances Cooper and David Manlove (2018). fmcooper/stable-SPA (Version v1.0.1). Zenodo. Available from <a href="https://doi.org/10.5281/zenodo.1186839">https://doi.org/10.5281/zenodo.1186839</a>.</li>
+<li>Frances Cooper and David Manlove (2019). Data: Two-sided profile-based optimality in the stable marriage problem (Version 1.0.0) [Data set]. Zenodo. Available from <a href="https://doi.org/10.5281/zenodo.2542704">https://doi.org/10.5281/zenodo.2542704</a>.</li>
+<li>Frances Cooper and David Manlove (2019). fmcooper/stable-SM (Version v.1.0.1). Zenodo. Available from <a href="https://doi.org/10.5281/zenodo.2545801">https://doi.org/10.5281/zenodo.2545801</a>.</li>
 </ul>
 <br>
 
